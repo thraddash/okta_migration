@@ -1,0 +1,13 @@
+# Environment files containing API tokens
+.env
+venv/
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Okta generated export directory
+okta_app_configs/
+
+# Output logs
+*.log
