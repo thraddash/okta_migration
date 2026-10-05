@@ -14,7 +14,7 @@ A Python-based utility using the official Okta SDK to backup, export, and migrat
 ---
 
 ## Project Structure
-
+```text
 .
 ├── fetch_okta_app_config.py  # Script to export app configs from source tenant
 ├── import_okta_apps.py       # Script to import app configs into target tenant
@@ -22,7 +22,7 @@ A Python-based utility using the official Okta SDK to backup, export, and migrat
 ├── .env.example              # Template for environment variables
 ├── .gitignore                # Protects secrets and output folders from Git
 └── README.md                 # Project documentation
-
+```
 ---
 
 ## Prerequisites
